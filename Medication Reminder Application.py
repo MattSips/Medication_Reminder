@@ -2,7 +2,7 @@
 import time
 import datetime
 import http.client, urllib
-from pushoverSecrets import token, user
+from pushoverSecrets1 import token, user
 
 # create reminder function
 def reminder():
